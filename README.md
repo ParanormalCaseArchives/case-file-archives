@@ -1,4 +1,4 @@
-![CASE FILE ARCHIVES](banner.jpg)
+![CASE FILE ARCHIVES](banner.png)
 
 # CASE FILE ARCHIVES
 
