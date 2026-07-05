@@ -73,3 +73,11 @@ footer {
     color: #999;
     font-size: 14px;
 }
+blockquote {
+    font-style: italic;
+    font-size: 22px;
+    color: #c9a86a;
+    border-left: 4px solid #c9a86a;
+    padding-left: 15px;
+    margin: 20px 0;
+}
