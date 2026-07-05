@@ -47,10 +47,11 @@ nav a {
 .download-btn {
     display: inline-block;
     background: #c9a86a;
-    color: black;
+    color: #000000 !important;
     padding: 10px 15px;
     text-decoration: none;
     border-radius: 5px;
+}
 }
 .header {
     text-align: center;
