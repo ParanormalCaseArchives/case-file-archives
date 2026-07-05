@@ -55,11 +55,11 @@ nav a {
 .header {
     text-align: center;
 }
-.case-box h3 a {
-    color: #c9a86a;
-    text-decoration: none;
+.case-box a {
+    color: #c9a86a !important;
+    text-decoration: none !important;
 }
 
-.case-box h3 a:hover {
-    text-decoration: underline;
+.case-box a:hover {
+    text-decoration: underline !important;
 }
