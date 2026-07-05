@@ -17,7 +17,7 @@ The objective is not to prove or disprove paranormal phenomena, but to examine a
 ## Published Reports
 
 ### CASE FILE 001 – The Enfield Poltergeist Research Archive
-
+📄 [Download CASE FILE 001 PDF](./Case%20File%20001%20-%20The%20Enfield%20Poltergeist.pdf)
 Status: Published
 
 A comprehensive research archive examining the Enfield Poltergeist case through witness testimony, documented evidence, investigative reports, skeptical analysis, and paranormal interpretations.
