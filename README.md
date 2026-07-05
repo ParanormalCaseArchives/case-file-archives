@@ -9,10 +9,7 @@ Created by Nitesh Hemnani
 ---
 
 ## Archive Collection
-
-| Case File | Title | Status |
-|-----------|---------|---------|
-| 001 | The Enfield Poltergeist | Published |
+ |
 **Published Reports:** 1
 
 **Latest Publication:**  
