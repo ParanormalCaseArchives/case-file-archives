@@ -8,6 +8,21 @@ Created by Nitesh Hemnani
 
 ---
 
+## Archive Collection
+
+| Case File | Title | Status |
+|-----------|---------|---------|
+| 001 | The Enfield Poltergeist | Published |
+**Published Reports:** 1
+
+**Latest Publication:**  
+CASE FILE 001 – The Enfield Poltergeist Research Archive
+
+**Research Focus:**  
+Historical paranormal cases, witness testimony, investigative records, skeptical analysis, and archival documentation.
+
+---
+
 ## About
 
 CASE FILE ARCHIVES is an independent paranormal research project dedicated to documenting, analyzing, and preserving some of the most discussed paranormal cases in modern history.
