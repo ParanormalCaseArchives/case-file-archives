@@ -78,3 +78,4 @@ This archive is an independent research project.
 
 The material presented is intended for educational, historical, and research purposes. Inclusion of claims, testimony, or reported experiences does not constitute proof of paranormal activity.
 Last updated July 2026
+Updated
