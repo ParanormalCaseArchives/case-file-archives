@@ -81,3 +81,12 @@ blockquote {
     padding-left: 15px;
     margin: 20px 0;
 }
+.case-cover {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #c9a86a;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(201,168,106,0.3);
+}
